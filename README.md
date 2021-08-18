@@ -1,6 +1,6 @@
 # P6_NAHI_RAYAN
 
--Cloner le depot
+-Cloner le depot en tapant la ligne de commande " git clone git@github.com:nrayan99/P6_NAHI_RAYAN.git "
 
 
 -Créer un fichier '.env' à la base du dossier
