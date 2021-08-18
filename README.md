@@ -6,7 +6,7 @@
 -Créer un fichier '.env' à la base du dossier
 
 
--A l'intérieur du fichier '.env' ajouter la ligne 'MONGODB_URI=<mongodb-URI>' où <mongodb-URI> est l'URI de votre base de donnée mongoDb
+-A l'intérieur du fichier '.env' ajouter la ligne 'MONGODB_URI=mongodb-URI' où mongodb-URI est l'URI de votre base de donnée mongoDb
 
 -Lancez 'npm install' dans le terminal
   
